@@ -31,6 +31,6 @@ My Version:
 ![My Image](https://media.discordapp.net/attachments/1114667516191580221/1135651557527007232/image.png)
 
 ## RESOURCE MONITOR
-![My Image](https://cdn.discordapp.com/attachments/873289704739594270/1030819833144680458/unknown.png)
+![My Image](https://cdn.discordapp.com/attachments/1026480087794728960/1135853359920844840/image.png)
 
 ##
