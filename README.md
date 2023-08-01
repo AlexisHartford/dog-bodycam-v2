@@ -1,6 +1,11 @@
 ## MAIN INFORMATION
 This is a Modifyed Version Of Dog#7087 main Code https://github.com/BobyTheDev/dog-bodycam
 
+My Version:
+- Changes Look depending on if you are EMS, Police, Or jsut a Normal Civ.
+- Clock is Set to Tick up to Sync With IRL Time For Log Reffrence.
+- If A Player takes the body cam item from your Inventory it will auto Disable the Hud.
+
 ## INSTALL INSTRUCTIONS
 1. Go to qb-core/shared/items.lua:
 
