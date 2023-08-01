@@ -1,10 +1,6 @@
 ## MAIN INFORMATION
-Hi, thank you for downloading my script, I'm very grateful!
-This is my 1st script I have written from scratch.
-Make Issues if there are any bugs or contact me on discord.
+This is a Modifyed Version Of Dog#7087 main Code https://github.com/BobyTheDev/dog-bodycam
 
-If you need help contact me on discord: Dog#7087
-Discord server: https://discord.gg/qZNrCuu65k
 ## INSTALL INSTRUCTIONS
 1. Go to qb-core/shared/items.lua:
 
